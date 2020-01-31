@@ -1,17 +1,4 @@
-# dijkstras-mountains
- __  __  ___  _   _ _   _ _____  _    ___ _   _ 
-|  \/  |/ _ \| | | | \ | |_   _|/ \  |_ _| \ | |
-| |\/| | | | | | | |  \| | | | / _ \  | ||  \| |
-| |  | | |_| | |_| | |\  | | |/ ___ \ | || |\  |
-|_|  |_|\___/ \___/|_| \_| |_/_/   \_\___|_| \_|
-                                                
- ____  ____  ___ ____   ____ _____ ____  
-| __ )|  _ \|_ _|  _ \ / ___| ____/ ___| 
-|  _ \| |_) || || | | | |  _|  _| \___ \ 
-| |_) |  _ < | || |_| | |_| | |___ ___) |
-|____/|_| \_\___|____/ \____|_____|____/ 
-                                         
-
+# dijkstras-mountains                                  
 For this assignment, you will use the BRIDGES library to visualize pathfinding
 your way through the mountains of Colorado. BRIDGES is a neat library, written
 by UNCC, that helps new programmers out by allowing them to visually see
