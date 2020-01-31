@@ -1,5 +1,4 @@
 # dijkstras-mountains
-=================================================
  __  __  ___  _   _ _   _ _____  _    ___ _   _ 
 |  \/  |/ _ \| | | | \ | |_   _|/ \  |_ _| \ | |
 | |\/| | | | | | | |  \| | | | / _ \  | ||  \| |
@@ -12,7 +11,6 @@
 | |_) |  _ < | || |_| | |_| | |___ ___) |
 |____/|_| \_\___|____/ \____|_____|____/ 
                                          
-=================================================
 
 For this assignment, you will use the BRIDGES library to visualize pathfinding
 your way through the mountains of Colorado. BRIDGES is a neat library, written
@@ -79,23 +77,6 @@ To get a grade, you must allow me to run your code on all six maps (the five
 ones I've given you and the one you created.) Don't crash on the map of the
 Central Valley or Korea! Negative elevations aren't handled by default, so it
 throws an exception when trying to set the color to a negative value.
-
-===============
-For a fun route on the San Joaquin map, try the following input:
-Please enter starting row and col:
-54 115
-Please enter ending row and col:
-310 300
-See if your result matches mine:
-http://bridges-cs.herokuapp.com/assignments/1001/wkerney
-===============
-For a fun route through Korea, try the following input:
-MaxRow = 573 MaxCol = 656
-Please enter starting row and col:
-120 320
-Please enter ending row and col:
-420 500
-===============
 
 To get BRIDGES working, you must register on their website to get a username
 and API key. Enter these into the source code on the first couple lines of
